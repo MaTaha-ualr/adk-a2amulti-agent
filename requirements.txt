@@ -1,0 +1,9 @@
+# Python 3.12 is the project's installed and supported interpreter.
+# Keep LiteLLM pinned: this project's debugging notes document tool-call
+# import failures with 1.108.0 and the working 1.105.1 version.
+# ADK A2A installation: https://github.com/google/adk-docs/blob/main/docs/a2a/quickstart-consuming.md
+google-adk[a2a]==2.14.0
+litellm==1.105.1
+python-dotenv==1.2.4
+python-weather==2.2.7
+newsapi-python==0.2.7

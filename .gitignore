@@ -1,0 +1,8 @@
+# Local Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local agent settings and ADK state
+.env
+my_agent/.adk/
